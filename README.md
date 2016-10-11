@@ -1,2 +1,2 @@
 # hello-world
-something about myself is one difficult task.
+writing something about myself is one difficult task.
